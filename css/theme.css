@@ -9,11 +9,11 @@ Error: Invalid CSS after "      margin": expected ";", was ": 10px 0 0 0;"
 24:       font-size: 46px;
 25:       color: #D67F2D
 26:       margin: 10px 0 0 0;
-27:     }
-28: 
-29:     .nav-list-item {
-30:         display: inline-block;
-31:         padding: 19px  10px ;
+27:       display: inline-block;
+28:     }
+29: 
+30:     .nav-list-item {
+31:         display: inline-block;
 
 Backtrace:
 source/scss/_partial/header.scss:26
@@ -76,4 +76,4 @@ source/scss/theme.scss:5
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Invalid CSS after \"      margin\": expected \";\", was \": 10px 0 0 0;\"\A         on line 26 of source/scss/_partial/header.scss\A         from line 5 of source/scss/theme.scss\A \A 21:     }\A 22: \A 23:     .main-title {\A 24:       font-size: 46px;\A 25:       color: #D67F2D\A 26:       margin: 10px 0 0 0;\A 27:     }\A 28: \A 29:     .nav-list-item {\A 30:         display: inline-block;\A 31:         padding: 19px  10px ;"; }
+  content: "Error: Invalid CSS after \"      margin\": expected \";\", was \": 10px 0 0 0;\"\A         on line 26 of source/scss/_partial/header.scss\A         from line 5 of source/scss/theme.scss\A \A 21:     }\A 22: \A 23:     .main-title {\A 24:       font-size: 46px;\A 25:       color: #D67F2D\A 26:       margin: 10px 0 0 0;\A 27:       display: inline-block;\A 28:     }\A 29: \A 30:     .nav-list-item {\A 31:         display: inline-block;"; }
