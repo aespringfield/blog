@@ -5,7 +5,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://annaspringfield.com/"/>
-  <updated>2017-06-04T22:43:10.000Z</updated>
+  <updated>2017-06-05T04:14:31.000Z</updated>
   <id>http://annaspringfield.com/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Here is a sample article</title>
+    <link href="http://annaspringfield.com/2017/06/04/sample-article/"/>
+    <id>http://annaspringfield.com/2017/06/04/sample-article/</id>
+    <published>2017-06-05T04:08:37.000Z</published>
+    <updated>2017-06-05T04:14:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>Here’s some stuff. It’s really interesting. Would you like to know more?</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;Here’s some stuff. It’s really int
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
