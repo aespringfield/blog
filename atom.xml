@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Anna Springfield - Blog</title>
-  
+  <title>Anna Springfield</title>
+  <subtitle>Developer diary</subtitle>
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://annaspringfield.com/"/>
